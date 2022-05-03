@@ -27,9 +27,9 @@ Scheme
 		"softshadowdarker"						"245 245 245 235"
 		"OffWhiteTrans"							"216 216 216 125"
 		
-		"softred"								"255 20 60 255"
-		"softred160"							"255 40 80 160"
-		"softblue"								"0 90 200 255"
+		"softred"								"255 75 75 255"
+		"softred160"							"255 75 75 160"
+		"softblue"								"75 130 255 255"
 		
 		"softred200"							"180 65 55 255"
 		"softblue200"							"86 133 181 255"

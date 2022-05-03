@@ -16,7 +16,7 @@ Scheme
 		"softgraydark"				"0 0 0 0"
 		"softgraydarkdarker"		"0 0 0 0"
 		"softred"					"0 217 139 255"
-		"softblue"					"0 90 200 255"
+		"softblue"					"75 130 255 255"
 		"softorange"				"0 217 139 255"
 		"softgreen"					"0 217 139 255"
 		"softgray"					"55 61 67 255"
